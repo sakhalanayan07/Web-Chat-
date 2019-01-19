@@ -1,0 +1,60 @@
+body
+{
+	background-color:#26EFB4;
+	background: linear-gradient(#26EFB4, #07466F);
+	text-align: center;
+	margin :0 auto;
+	letter-spacing: 1px;
+	font-weight:bold;
+	font-family: Century Gothic, sans-serif;
+}
+
+#login_form
+{
+	text-align: center;
+	margin-top: 10px;
+	height: inherit;
+	width: inherit;
+	text-align: center;
+}
+
+input[type=text]
+{
+	width:300px;
+	height:30px;
+	border-radius:4px;
+	padding-left:20px;
+	border:transparent;
+	letter-spacing: 1px;
+	font-family: Century Gothic, sans-serif;
+    text-transform: uppercase;
+}
+input[type=password]
+{
+	width:300px;
+	height:30px;
+	border-radius:4px;
+	padding-left:20px;
+	border:transparent;
+	letter-spacing: 1px;
+	font-family: Century Gothic, sans-serif;
+	letter-spacing: 1px;
+ 	text-transform: uppercase;
+}
+
+input[type=submit]
+{
+	width:80px;
+	height:30px;
+	border:transparent;
+	border-radius: 20px;
+	letter-spacing: 1px;
+ 	text-transform: uppercase;
+ 	font-family: Century Gothic, sans-serif;
+	font-weight: 800;
+}
+
+img
+{
+	border-radius: 50%;
+}

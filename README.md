@@ -3,7 +3,15 @@ It is an application which is an example of server chat. The main features of th
 
 Technologies Used : PHP , HTML , CSS , MYSQL
 
-SCREENSHOTS
+# HOW TO USE???
+
+ 1.Start Apache and MYSQL server (use XAMPP Control Panel)
+ 2.Paste Wallet folder in xampp/htdocs
+ 3.Browse localhost from browser (use proper ports)
+ 4.To edit port number and database info, check the php files.
+ 5.For the database file i.e. .SQL file containing all the tables, contact me.
+
+# SCREENSHOTS
 
 1.LOGIN PAGE
 
